@@ -42,17 +42,6 @@
 
 ---
 
-## 🚀 Project Showcase
-
-| Project | Description | Link |
-|----------|------------|------|
-| 🤖 AI Project | AI/ML based application | [Open Project](YOUR_PROJECT_LINK) |
-| 🧠 Machine Learning Model | Predictive analytics project | [Open Project](YOUR_PROJECT_LINK) |
-| 🌐 Portfolio Website | Personal developer portfolio | [Open Project](YOUR_PROJECT_LINK) |
-| 🚀 Full Stack Application | Modern web application | [Open Project](YOUR_PROJECT_LINK) |
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -68,26 +57,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🧊 Contribution Summary Cards
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
